@@ -1,5 +1,5 @@
 {
-  "name": "git commit -m "first commit"",
+  "name": "boilerplate-client-vite",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
